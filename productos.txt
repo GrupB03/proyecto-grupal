@@ -1,0 +1,10 @@
+03f7c8a0-1bca-4055-a8ab-10f1ff444e81;Producto_1;20.60
+3eeae804-8708-49b5-9949-f22c67cd4ee2;Producto_2;49.77
+2a595781-2aa8-445f-937c-3460e1bcdfa6;Producto_3;60.24
+1ab7738b-9018-416c-a37f-4aca85e67dee;Producto_4;74.71
+18dcbf09-4f60-422b-87a7-1d5031aa4e0f;Producto_5;71.33
+2b887b55-3802-4d7b-a16c-3970907c6d7e;Producto_6;82.22
+b0b3f08f-89e5-4428-b619-e3cb4ddc9ac8;Producto_7;34.88
+839f5cb5-355e-4e97-abfd-76b1ccd0fb16;Producto_8;67.45
+35590f75-cb42-4fc6-9ef4-ebb7e08fd771;Producto_9;81.51
+060dda44-3d23-44af-9f28-8cd2c02cc4bf;Producto_10;49.95
