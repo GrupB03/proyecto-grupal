@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto:
+Durante el desarrollo de este proyecto, he aprendido a gestionar datos desde archivos de texto, validar formatos y manejar errores comunes en la entrada de datos. También he aprendido a trabajar con UUIDs y arrays.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos 
+En mi carrera puedo aplicar las habilidades adquiridas para desarrollar sistemas que manejen y analicen datos de pacientes, optimizando la gestión de registros y mejorando la toma de decisiones. Además, el conocimiento sobre validación de datos puede ayudar a asegurar que la información médica sea precisa y confiable, lo que es crucial en el ámbito de la salud.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto:
+Una de las principales dificultades que enfrenté fue asegurarme de que los datos generados fueran coherentes y relevantes, especialmente al crear archivos de ventas y productos. También tuve que lidiar con problemas de manejo de excepciones y validación de datos para garantizar que el programa funcionara sin errores. Aprender a gestionar estas situaciones me ha permitido desarrollar un enfoque más metódico para resolver problemas en proyectos futuros.
